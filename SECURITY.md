@@ -5,7 +5,7 @@
 Report security problems privately. Do not open a public issue.
 
 - Use GitHub's **Report a vulnerability** button on the repo's Security tab, or
-- Email contact@envisioning.com with "Proseio security" in the subject.
+- Email contact@envisioning.com with "Bipe security" in the subject.
 
 Tell us what you found, how to reproduce it and what an attacker can do with it. We reply and tell you what we will do.
 
@@ -15,4 +15,4 @@ The apps are forks of Element X. If the problem is also in Element's own code, r
 
 ## Scam rules are public on purpose
 
-Proseio's scam checks run in the open. A check counts only if it still works when the attacker knows how it works. A way around a check is a valid report.
+Bipe's scam checks run in the open. A check counts only if it still works when the attacker knows how it works. A way around a check is a valid report.
