@@ -20,7 +20,10 @@ Signed-off-by: Your Name <you@example.com>
 
 ## Licence
 
-Your contribution is licensed under the licence of the repo you contribute to: AGPL-3.0 for all Bipe repos.
+- **Bipe code** (Bipe's own repos, BipeKit in bipe-ios, `libraries/bipe*` in bipe-android, and Bipe's own app clients): your contribution is licensed under AGPL-3.0-only with the [app store permission](APP-STORE-PERMISSION.md). The permission lets Bipe and anyone else ship the code through app stores such as the Apple App Store.
+- **Element code** in bipe-ios and bipe-android: your contribution is licensed under that code's licence (AGPL-3.0). Better: send the change to [element-hq](https://github.com/element-hq) first.
+
+The DCO sign-off confirms that you have the right to license your change on these terms.
 
 ## Security
 
