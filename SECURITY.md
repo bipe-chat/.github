@@ -11,7 +11,7 @@ Tell us what you found, how to reproduce it and what an attacker can do with it.
 
 ## Element code
 
-The apps are forks of Element X. If the problem is also in Element's own code, report it to Element too: [element.io/security/security-disclosure-policy](https://element.io/security/security-disclosure-policy).
+bipe-app has no Element code. The archived forks bipe-ios and bipe-android are forks of Element X and still hold the source of the current store builds. If a problem is also in Element's own code, report it to Element too: [element.io/security/security-disclosure-policy](https://element.io/security/security-disclosure-policy).
 
 ## Scam rules are public on purpose
 
