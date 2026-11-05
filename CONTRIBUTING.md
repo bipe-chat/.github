@@ -31,7 +31,7 @@ The team keeps its own task tracker and the design records (ADRs) in a private r
 
 ## bipe-app: no Element code
 
-bipe-app is written from scratch on matrix-rust-sdk. It must never contain code from Element X (element-hq) or from the archived forks bipe-ios and bipe-android.
+bipe-app is written from scratch on matrix-rust-sdk. It must never contain code from Element X (element-hq) or from Bipe's old forks of it.
 
 - Do not copy, translate or adapt code from those projects into bipe-app.
 - matrix-rust-sdk (Apache-2.0), the Matrix spec, and Apple and Android platform docs are fine to read and use.
@@ -54,8 +54,6 @@ Signed-off-by: Your Name <you@example.com>
 ## Licence
 
 Your contribution to a Bipe repo is licensed under AGPL-3.0-only with the [app store permission](APP-STORE-PERMISSION.md). The permission lets Bipe and anyone else ship the code through app stores such as the Apple App Store.
-
-The archived forks bipe-ios and bipe-android accept no contributions. They hold the source of the current store builds until bipe-app replaces them.
 
 The DCO sign-off confirms that you have the right to license your change on these terms.
 

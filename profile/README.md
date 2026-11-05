@@ -26,8 +26,6 @@ Site: [bipe.chat](https://bipe.chat)
 | [bipe-beeper](https://github.com/bipe-chat/bipe-beeper) | Bipe chats in Beeper, through a bridge you run yourself | AGPL-3.0 |
 | [bipe-ml](https://github.com/bipe-chat/bipe-ml) | On-device models: the pt-BR scam classifier | AGPL-3.0 |
 
-bipe-ios, bipe-android and compound-design-tokens are archived. They hold the source of the current store builds until bipe-app replaces them in the stores.
-
 ## Help and rules
 
 - How to help: [CONTRIBUTING.md](https://github.com/bipe-chat/.github/blob/main/CONTRIBUTING.md)
